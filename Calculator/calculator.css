@@ -1,0 +1,215 @@
+.body{
+    background-image: url('background.jpg');
+}
+
+#header{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+#div1{
+    background-color: white;
+    height: 140px;
+    width: 450px;
+    border-radius: 10px;
+    
+}
+.screen{
+    width: 430px;
+    height: 50px;
+    border-radius: 7px;
+    border: none;
+    box-sizing: content-box;
+    font-size: 24px;
+    text-decoration: solid black;
+}
+#div2{
+    background-color: #283048 ;
+    border-radius: 10px;
+    align-content: center;
+}
+button:hover{
+    border: 1px solid white;
+}
+button{
+    background-color:#414345;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer; 
+    padding-left: 90px;
+    padding-bottom: 100px;
+    
+}
+#btn1, #btn2, #btn3, #btn5,#btn6, #btn7,#btn9,#btn10,#btn11{
+    background-color:#283048;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 25px;
+}
+#btn1:hover{
+    background-color:#EDE574;
+    transform:scale(1.2);
+    z-index:2;
+    color: black;
+    font-weight: bold;
+    font-size: 34px;
+}
+#btn2:hover{
+    background-color:#EDE574;
+    transform:scale(1.2);
+    z-index:2;
+    color: black;
+    font-weight: bold;
+    font-size: 34px;
+}
+#btn3:hover{
+    background-color:#EDE574;
+    transform:scale(1.2);
+    z-index:2;
+    color: black;
+    font-weight: bold;
+    font-size: 34px;
+} 
+#btn5:hover{
+    
+    background-color:#EDE574;
+    transform:scale(1.2);
+    z-index:2;
+    color: black;
+    font-weight: bold;
+    font-size: 34px;
+}
+#btn6:hover{
+    background-color:#EDE574;
+    transform:scale(1.2);
+    z-index:2;
+    color: black;
+    font-weight: bold;
+    font-size: 34px;
+} 
+#btn7:hover{
+    background-color:#EDE574;
+    transform:scale(1.2);
+    z-index:2;
+    color: black;
+    font-weight: bold;
+    font-size: 34px;
+}
+#btn9:hover{
+    background-color:#EDE574;
+    transform:scale(1.2);
+    z-index:2;
+    color: black;
+    font-weight: bold;
+    font-size: 34px;
+}
+#btn10:hover{
+    background-color:#EDE574;
+    transform:scale(1.2);
+    z-index:2;
+    color: black;
+    font-weight: bold;
+    font-size: 34px;
+} 
+#btn11:hover{
+    background-color:#EDE574;
+    transform:scale(1.2);
+    z-index:2;
+    color: black;
+    font-weight: bold;
+    font-size: 34px;
+}
+#btn16:hover{
+    background-color:#4389A2;
+    transform:scale(1.1);
+    z-index:2;
+    font-weight: bold;
+    font-size: 34px;
+} 
+#btn15:hover{
+    
+    background-color:#4389A2;
+    transform:scale(1.1);
+    z-index:2;
+    font-weight: bold;
+    font-size: 34px;
+}
+#btn14:hover{
+    background-color:#4389A2;
+    transform:scale(1.1);
+    z-index:2;
+    font-weight: bold;
+    font-size: 34px;
+} 
+#btn13:hover{
+    background-color:red;
+    transform:scale(1.1);
+    z-index:2;
+    font-weight: bold;
+    font-size: 34px;
+}
+#btn4:hover{
+    background-color:#4389A2;
+    transform:scale(1.1);
+    z-index:2;
+    font-weight: bold;
+    font-size: 34px;
+}
+#btn8:hover{
+    background-color:#4389A2;
+    transform:scale(1.1);
+    z-index:2;
+    font-weight: bold;
+    font-size: 34px;
+} 
+#btn12:hover{
+    background-color:#4389A2;
+    transform:scale(1.1);
+    z-index:2;
+    font-weight: bold;
+    font-size: 34px;
+}
+#btn13{
+    background-color: #ED4264;
+    display: inline-block;
+    font-size: 25px;
+}
+#btn14 {
+    background-color:#514A9D ;
+    display: inline-block;
+    font-size: 25px;
+}
+#btn15{
+    background-color:#514A9D ;
+    display: inline-block;
+    font-size: 25px;
+}
+#btn16{
+    background-color:#514A9D ;
+    margin-top: 10px;
+    display: inline-block;
+    font-size: 25px;
+} 
+#btn4 {
+    background-color:#514A9D ;
+    margin-top: 10px; 
+    display: inline-block;
+    font-size: 25px;
+}
+#btn8 {
+    background-color:#514A9D ;
+    margin-top: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    font-size: 25px;
+}
+#btn12{
+    background-color:#514A9D ;
+    margin-top: 10px;
+    display: inline-block;
+    font-size: 25px;
+}
